@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C++**
 
 
 <p align="left">
