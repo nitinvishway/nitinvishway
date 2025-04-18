@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nitin Vishwakarma</h1>
-<h3 align="center">Learning</h3>
+<h3 align="center"></h3>
 
 
 
-- 🌱 I’m currently learning **C++**
+- 🌱 
 
 
 <p align="left">
