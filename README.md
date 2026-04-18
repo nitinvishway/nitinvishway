@@ -11,7 +11,7 @@
 
 ### About
 
-Engineer with a focus on **Android development**, **on-device AI**, and **distributed systems**.
+Focus on **Android development**, **on-device AI**, and **distributed systems**.
 I care deeply about code that lasts — clear contracts, observable systems, and teams that ship with confidence.
 Currently exploring the intersection of **mobile platform engineering**, **small language models**, and **how networked systems hold together under pressure**.
 
