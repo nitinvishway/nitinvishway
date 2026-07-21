@@ -11,7 +11,7 @@
 
 ### About
 
-Focus on **Android development**, **on-device AI**, and **distributed systems**.
+Focus at **on-device AI**, and **distributed systems**.
 Currently exploring the intersection of **mobile platform engineering**, **small language models**, and **how networked systems hold together under pressure**.
 
 ---
