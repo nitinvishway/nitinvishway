@@ -34,7 +34,6 @@ Currently exploring the intersection of **mobile platform engineering**, **small
 
 ### Currently Focused On
 
-- 📱 **Android development**: Jetpack Compose, MVVM, modern Android architecture
 - 🤖 **Small Language Models (SLMs)**: on-device inference, model compression, edge AI
 - 🌐 **Networks & Distributed Computing**: distributed systems design, consensus, fault tolerance
 - 🗄 **Storage**: databases, file systems, data locality, I/O optimization
