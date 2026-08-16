@@ -1,6 +1,3 @@
-<h1 align="center">Nitin Vishwakarma</h1>
-
-
 ### Currently exploring
 - **Information Theory**
 - **Small Language Models (SLMs)**
