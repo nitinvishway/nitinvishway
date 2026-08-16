@@ -1,8 +1,7 @@
 ### Currently exploring
 - **Information Theory**
-- **Small Language Models (SLMs)**
-- **Networks & Distributed Computing**: distributed systems design, consensus, fault tolerance
-- **Storage**: databases, file systems, data locality, I/O optimization
+- **SLMs**
+- **Distributed Computing**
 
 ---
 
